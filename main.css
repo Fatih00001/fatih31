@@ -1,0 +1,65 @@
+.top {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: rgb(30, 255, 0);
+}
+
+a.size {
+    margin: 3%;
+    text-decoration-color: yellow;
+}
+
+p {
+    font-size: 120%;
+}
+
+.clr {
+    color: yellow;
+}
+
+.align {
+    text-align: center;
+}
+
+.fontsize {
+    font-size: 150%;
+}
+
+.redline {
+    text-decoration: underline;
+    text-decoration-color: red;
+    margin: 3%;
+}
+
+.righttopcorner {
+    position: fixed;
+    top: 0;
+    right: 0;
+    font-size: 25px;
+}
+
+#lastadios {
+    color: blue;
+}
+
+* {
+    background-color: black;
+    color: white;
+}
+
+#border{
+    border-style: solid;
+    border-color: yellow;
+    border-width: 1px;
+    border-radius: 5px;
+    padding: 8px;
+}
+
+#redborder{
+    border-style: solid;
+    border-color: red;
+    border-width: 1px;
+    border-radius: 5px;
+    padding: 8px;
+}
